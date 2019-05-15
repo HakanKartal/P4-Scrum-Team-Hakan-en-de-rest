@@ -13,3 +13,5 @@ public class Quiz_4_1 extends Quiz_4
 		mk.methodeA(5,3.0);
 	}
 }
+
+//de uitkomst = 15.0

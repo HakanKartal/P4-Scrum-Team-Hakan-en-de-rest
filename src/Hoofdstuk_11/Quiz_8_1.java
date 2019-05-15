@@ -16,3 +16,4 @@ public class Quiz_8_1 extends Quiz_8
 	}
 
 }
+//de uitkomst = 1 2

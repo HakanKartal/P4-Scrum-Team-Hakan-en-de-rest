@@ -13,4 +13,4 @@ public class Quiz_7 {
 	}
 
 }
-
+//de uitkomst = xdxx

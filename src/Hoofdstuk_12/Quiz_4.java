@@ -8,3 +8,4 @@ public class Quiz_4
 		System.out.print(z);
 	}
 }
+// de uitkomst = 15.0

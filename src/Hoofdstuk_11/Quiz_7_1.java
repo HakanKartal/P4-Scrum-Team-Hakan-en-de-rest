@@ -13,3 +13,4 @@ public class Quiz_7_1 extends Quiz_7
 	}
 
 }
+//de uitkomst = xdxx

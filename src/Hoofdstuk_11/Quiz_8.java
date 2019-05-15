@@ -8,4 +8,4 @@ public class Quiz_8
 	private String str4 = "4";
 }
 
-
+// de uitkomst = 1 2
