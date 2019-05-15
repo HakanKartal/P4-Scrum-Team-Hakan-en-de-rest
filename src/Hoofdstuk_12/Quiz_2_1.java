@@ -1,6 +1,6 @@
-package Hoofdstuk_12_Quiz2;
+package Hoofdstuk_12;
 
-public class MijnKlasse extends Superklasse
+public class Quiz_2_1 extends Quiz_2
 {
   int z = 5;
   void mijnMethode(int x)
@@ -9,6 +9,6 @@ public class MijnKlasse extends Superklasse
   }
   public static void main(String[] args)
   {
-    MijnKlasse mk = new MijnKlasse();
+    Quiz_2_1 mk = new Quiz_2_1();
   }
 }

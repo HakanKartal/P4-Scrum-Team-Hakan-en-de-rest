@@ -1,6 +1,6 @@
-package Hoofdstuk_12_Quiz3;
+package Hoofdstuk_12;
 
-public class MijnKlasse extends Superklasse
+public class Quiz_3_1 extends Quiz_3
 {
   int x = 3;
   String methodeA(String s, int i)
@@ -10,7 +10,7 @@ public class MijnKlasse extends Superklasse
   }
   public static void main(String[] args)
   {
-    MijnKlasse mk = new MijnKlasse();
+    Quiz_3_1 mk = new Quiz_3_1();
     System.out.print(mk.methodeA(23, "Emma"));
   }
 }

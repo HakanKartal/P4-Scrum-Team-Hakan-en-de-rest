@@ -1,6 +1,6 @@
-package Hoofdstuk_12_Quiz2;
+package Hoofdstuk_12;
 
-public class Superklasse
+public class Quiz_2
 {
   final void methodeA()
   {
