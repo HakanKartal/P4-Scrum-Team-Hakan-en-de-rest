@@ -25,3 +25,6 @@ public final class MijnKlasse
     System.out.println(mk.bereken(4, 6));
   }
 }
+
+//MijnKlasse kan geen subklasse hebben, omdat deze een final class is.
+//MijnKlasse kan wel een superklasse hebben, want deze overruled MijnKlasse weer.
