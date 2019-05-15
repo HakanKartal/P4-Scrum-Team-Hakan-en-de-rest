@@ -1,6 +1,6 @@
 package Hoofdstuk_12_Quiz1;
 
-public class MijnKlasse
+public final class MijnKlasse
 {
   final int x = 3;
   int bereken(int y, int z)
@@ -18,5 +18,10 @@ public class MijnKlasse
       // x ++ ; /* 5 */
       return z + x;
     }
+  }
+  public static void main(String[] args)
+  {
+    MijnKlasse mk = new MijnKlasse();
+    System.out.println(mk.bereken(4, 6));
   }
 }
