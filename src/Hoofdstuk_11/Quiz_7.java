@@ -14,3 +14,4 @@ public class Quiz_7 {
 
 }
 //de uitkomst = xdxx
+//als ik hem in "s" veranderd komt er sdss te staan

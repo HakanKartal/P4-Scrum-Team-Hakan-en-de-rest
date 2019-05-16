@@ -9,8 +9,9 @@ public class Quiz_7_1 extends Quiz_7
 	}
 	public static void main (String[] args)
 	{
-		Quiz_7_1 sk = new Quiz_7_1("x");
+		Quiz_7_1 sk = new Quiz_7_1("s");
 	}
 
 }
 //de uitkomst = xdxx
+// als ik hem in "s" veranderd komt er sdss te staan

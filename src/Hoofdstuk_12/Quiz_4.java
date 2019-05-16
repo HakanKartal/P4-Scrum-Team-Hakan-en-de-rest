@@ -9,3 +9,4 @@ public class Quiz_4
 	}
 }
 // de uitkomst = 15.0
+//als je mk.methodeA(6, 4);veranderd hebt komt er 2 uit als uitkomst
