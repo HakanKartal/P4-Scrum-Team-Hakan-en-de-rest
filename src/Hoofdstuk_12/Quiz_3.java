@@ -1,6 +1,6 @@
-package Hoofdstuk_12_Quiz3;
+package Hoofdstuk_12;
 
-public class Superklasse
+public class Quiz_3
 {
   final int x = 4;
   final String methodeA(int i, String s)
