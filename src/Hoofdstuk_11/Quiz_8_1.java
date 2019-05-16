@@ -13,7 +13,10 @@ public class Quiz_8_1 extends Quiz_8
 		//System.out.print(supK.str3); /* 3 */
 		//System.out.print(supK.str4); /* 4 */
 		System.out.print(supK.str2); /* 5 */
+		System.out.print(supK.mijnInt); /* 5 */
+		System.out.print(subK.mijnInt); /* 5 */
 	}
 
 }
 //de uitkomst = 1 2
+//als ik een protected string toevoeg kan ik zowel supK als subK gebreuken
