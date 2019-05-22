@@ -10,3 +10,5 @@ public class Quiz_4
 		System.out.print(" x" + x);
 	}
 }
+
+// hoi
