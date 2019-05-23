@@ -2,6 +2,8 @@ package Hoofdstuk_11;
 
 public class Quiz_6_1 extends Quiz_6
 {
+	protected char e = 'p';
+	
 	void mijnMethode1()
 	{
 		x ++;
@@ -16,3 +18,5 @@ public class Quiz_6_1 extends Quiz_6
 		sk.mijnMethode1();
 	}
 }
+
+// De standaartuitvoer die wordt in plaats van dd810 nu pd810.
