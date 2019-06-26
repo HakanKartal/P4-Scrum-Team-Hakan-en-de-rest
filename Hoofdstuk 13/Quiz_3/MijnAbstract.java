@@ -12,3 +12,4 @@ abstract class MijnAbstract {
         this.str += str;
     }
 }
+//gemaakt door Noelle
