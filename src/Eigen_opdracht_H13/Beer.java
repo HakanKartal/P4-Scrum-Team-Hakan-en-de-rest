@@ -3,14 +3,11 @@ package Eigen_opdracht_H13;
 public class Beer extends Zoogdier {
 	
 	public void communiceren() {
-		
+		System.out.println("*grom*");
 	}
 	
-	public void ademhalen() {
-		
+	public void levensgebied() {
+		System.out.println("land");
 	}
-
-	public void lopen() {
-		
-	}
+	
 }
