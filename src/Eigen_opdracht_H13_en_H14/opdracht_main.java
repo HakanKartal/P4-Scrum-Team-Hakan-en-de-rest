@@ -11,6 +11,8 @@ public class opdracht_main {
 		Zombie zombie = new Mens();
 		Zoogdier walvis = new Walvis();
 		
+		//Aanroepen van methodes
+		
 		beer.communiceren();
 		beer.levensgebied();
 		System.out.print("\n");
@@ -27,3 +29,5 @@ public class opdracht_main {
 		System.out.print("\n");
 	}
 }
+
+//Gemaakt door hakan.

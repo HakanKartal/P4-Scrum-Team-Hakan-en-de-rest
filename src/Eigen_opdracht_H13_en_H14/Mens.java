@@ -11,7 +11,7 @@ public class Mens extends Zoogdier implements Zombie {
 	}
 	
 	public void spraakgebrek() {
-		System.out.println("Graagh");
+		System.out.println("Graagh! (zombie gebrammel)");
 	}
 	
 	public void levensgebied() {
