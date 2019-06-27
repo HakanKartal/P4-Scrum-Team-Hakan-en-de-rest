@@ -21,7 +21,6 @@ public class opdracht_main {
 		mens.levensgebied();
 		System.out.print("\n");
 		zombie.spraakgebrek();
-		zombie
 		
 		walvis.communiceren();
 		walvis.levensgebied();
