@@ -1,6 +1,6 @@
 package Eigen_opdracht_H13;
 
-public class Beer extends Zoogdier {
+public class Walvis extends Zoogdier {
 	
 	public void communiceren() {
 		
@@ -9,8 +9,8 @@ public class Beer extends Zoogdier {
 	public void ademhalen() {
 		
 	}
-
-	public void lopen() {
+	
+	public void zwemmen() {
 		
 	}
 }
