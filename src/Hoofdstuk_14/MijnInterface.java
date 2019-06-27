@@ -1,3 +1,4 @@
+package Hoofdstuk_14;
 
 public interface MijnInterface {
 	int x = 5;

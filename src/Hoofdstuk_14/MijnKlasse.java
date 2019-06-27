@@ -1,3 +1,5 @@
+package Hoofdstuk_14;
+
 public class MijnKlasse implements MijnInterface
 {
 	public void methode() {

@@ -1,3 +1,4 @@
+package Hoofdstuk_14;
 
 public class MijnKlasse2 implements InterfaceA,InterfaceB {
 	// int MAX_TOEGESTAAN; /*1*/
