@@ -14,3 +14,4 @@ public class MijnKlasse extends MijnAbstract {
         System.out.print(mk.str);
     }
 }
+//gemaakt door Noelle

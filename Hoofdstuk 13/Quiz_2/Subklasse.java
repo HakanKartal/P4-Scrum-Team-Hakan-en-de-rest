@@ -11,3 +11,4 @@ public class Subklasse extends Superklasse {
         new Subklasse().printLetter('s');
     }
 }
+//gemaakt door Noelle

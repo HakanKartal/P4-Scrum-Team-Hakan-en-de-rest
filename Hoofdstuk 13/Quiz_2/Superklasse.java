@@ -12,3 +12,4 @@ public class Superklasse extends MijnAbstract {
         System.out.print(c);
     }
 }
+// gemaakt door Noelle
