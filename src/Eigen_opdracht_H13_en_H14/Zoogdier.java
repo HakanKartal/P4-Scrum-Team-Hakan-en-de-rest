@@ -1,4 +1,4 @@
-package Eigen_opdracht_H13;
+package Eigen_opdracht_H13_en_H14;
 
 public abstract class Zoogdier {
 
